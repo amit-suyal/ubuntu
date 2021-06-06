@@ -1,0 +1,12 @@
+Linux File System Commands
+
+ls - List the contents of a directory
+cd - Change directory
+mkdir - Create directory
+rmdir - Remove directory
+cp - Copy file
+mv - Move file
+rm - Remove file
+pwd - Print the present working directory
+file - Print the present type of a file
+chmod - Change the permission attributes of a file
