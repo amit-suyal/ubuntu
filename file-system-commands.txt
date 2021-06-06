@@ -10,3 +10,4 @@ rm - Remove file
 pwd - Print the present working directory
 file - Print the present type of a file
 chmod - Change the permission attributes of a file
+Give permissions of read write - sudo chmod -R 777 projects
