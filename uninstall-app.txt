@@ -1,0 +1,29 @@
+Uninstall Package in ubuntu
+
+check install packages - 
+
+apt list --installed
+
+dpkg -l
+
+Command to remove the packages
+    sudo apt remove package-name
+    sudo apt-get remove package-name
+    sudo dpkg -r package-name
+
+To remove all the files as well as config files
+    $ sudo apt purge package-name
+    OR
+    $ sudo apt-get purge package-name
+    OR
+    $ sudo dpkg -P package-
+    
+Uninstall snap package
+    $ snap list
+    $ sudo snap remove package-name
+
+Uninstall unused packages
+    $ sudo apt autoremove
+
+
+
